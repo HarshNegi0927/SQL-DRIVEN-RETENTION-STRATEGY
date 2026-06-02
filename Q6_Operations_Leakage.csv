@@ -1,0 +1,13 @@
+"Shipping Type","Payment Method",transaction_count,avg_ticket_size,avg_promo_dependency,promo_orders_count
+Express,PayPal,128,59.77,0.82,50
+"Free Shipping",PayPal,121,59.50,0.83,48
+"Free Shipping",Cash,120,60.26,0.88,47
+"2-Day Shipping","Credit Card",119,59.66,0.91,49
+"Store Pickup",Cash,119,60.29,0.98,53
+Standard,"Debit Card",118,60.64,1.09,58
+Standard,Cash,117,57.46,0.98,50
+"Next Day Air","Bank Transfer",116,56.91,1.08,56
+Standard,"Credit Card",115,56.88,0.82,43
+"Free Shipping","Debit Card",115,61.20,0.84,44
+Express,"Credit Card",113,60.50,0.98,51
+"Store Pickup","Bank Transfer",111,57.73,0.93,46
